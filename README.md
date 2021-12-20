@@ -2,6 +2,8 @@
 
 > Example using Cypress to test Create-React-App site running with custom certificate for domain "my-secure-site"
 
+Read the blog post [Cypress Hosts Option](https://glebbahmutov.com/blog/cypress-hosts-option/)
+
 ## Making certificate
 
 Before testing the site, we need to make local self-signed certificate in the folder ".cert". On Mac I used the following commands to create a self-signed certificate for domain "my-secure-site"
