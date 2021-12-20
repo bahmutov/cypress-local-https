@@ -1,6 +1,11 @@
 {
   "name": "cypress-local-https",
   "version": "0.1.0",
+  "description": "Example using Cypress to test Create-React-App site running with custom certificate",
+  "author": {
+    "name": "Gleb Bahmutov",
+    "email": "gleb.bahmutov@gmail.com"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
