@@ -1,0 +1,9 @@
+{
+  "fixturesFolder": false,
+  "supportFile": false,
+  "pluginsFile": false,
+  "baseUrl": "https://my-secure-site:3000",
+  "hosts": {
+    "my-secure-site": "127.0.0.1"
+  }
+}
